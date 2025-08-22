@@ -13,5 +13,10 @@ namespace MiPractica
         {
 
         }
+
+        protected void btnAceptar_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("WebForm2.aspx?Nom=" + tbNombre.Text + "&Ape=" + tbApellido.Text);
+        }
     }
 }

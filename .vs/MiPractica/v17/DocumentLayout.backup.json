@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\pablo\\OneDrive\\Escritorio\\utn\\segundo anio\\primer cuatrimestre\\programacion 3\\MiPractica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C684334-7DB9-425F-AC20-21664E27F760}|MiPractica\\MiPractica.csproj|c:\\users\\pablo\\onedrive\\escritorio\\utn\\segundo anio\\primer cuatrimestre\\programacion 3\\mipractica\\mipractica\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C684334-7DB9-425F-AC20-21664E27F760}|MiPractica\\MiPractica.csproj|solutionrelative:mipractica\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C684334-7DB9-425F-AC20-21664E27F760}|MiPractica\\MiPractica.csproj|c:\\users\\pablo\\onedrive\\escritorio\\utn\\segundo anio\\primer cuatrimestre\\programacion 3\\mipractica\\mipractica\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C684334-7DB9-425F-AC20-21664E27F760}|MiPractica\\MiPractica.csproj|solutionrelative:mipractica\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C684334-7DB9-425F-AC20-21664E27F760}|MiPractica\\MiPractica.csproj|c:\\users\\pablo\\onedrive\\escritorio\\utn\\segundo anio\\primer cuatrimestre\\programacion 3\\mipractica\\mipractica\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{9C684334-7DB9-425F-AC20-21664E27F760}|MiPractica\\MiPractica.csproj|solutionrelative:mipractica\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C684334-7DB9-425F-AC20-21664E27F760}|MiPractica\\MiPractica.csproj|c:\\users\\pablo\\onedrive\\escritorio\\utn\\segundo anio\\primer cuatrimestre\\programacion 3\\mipractica\\mipractica\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9C684334-7DB9-425F-AC20-21664E27F760}|MiPractica\\MiPractica.csproj|solutionrelative:mipractica\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\utn\\segundo anio\\primer cuatrimestre\\programacion 3\\MiPractica\\MiPractica\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "MiPractica\\WebForm2.aspx.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\utn\\segundo anio\\primer cuatrimestre\\programacion 3\\MiPractica\\MiPractica\\WebForm2.aspx.cs",
+              "RelativeToolTip": "MiPractica\\WebForm2.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:25:37.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\utn\\segundo anio\\primer cuatrimestre\\programacion 3\\MiPractica\\MiPractica\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "MiPractica\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\utn\\segundo anio\\primer cuatrimestre\\programacion 3\\MiPractica\\MiPractica\\WebForm1.aspx.cs",
+              "RelativeToolTip": "MiPractica\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwBIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:22:09.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\utn\\segundo anio\\primer cuatrimestre\\programacion 3\\MiPractica\\MiPractica\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "MiPractica\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\utn\\segundo anio\\primer cuatrimestre\\programacion 3\\MiPractica\\MiPractica\\WebForm2.aspx",
+              "RelativeToolTip": "MiPractica\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-22T18:07:13.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\utn\\segundo anio\\primer cuatrimestre\\programacion 3\\MiPractica\\MiPractica\\WebForm1.aspx",
               "RelativeDocumentMoniker": "MiPractica\\WebForm1.aspx",

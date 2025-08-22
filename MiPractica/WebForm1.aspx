@@ -11,13 +11,13 @@
     <form id="form1" runat="server">
         
         <asp:Label ID="lblNombre" runat="server" Text="Ingrese su nombre:"></asp:Label>
-        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+        <asp:TextBox ID="tbNombre" runat="server"></asp:TextBox>
         <br />
         <asp:Label ID="lblApellido" runat="server" Text="Ingrese su apellido:"></asp:Label>
-        <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+        <asp:TextBox ID="tbApellido" runat="server"></asp:TextBox>
         
         <br />
-        <asp:Button ID="btnAceptar" runat="server" Text="Aceptar" />
+        <asp:Button ID="btnAceptar" runat="server" Text="Aceptar" OnClick="btnAceptar_Click" />
         
     </form>
 </body>
